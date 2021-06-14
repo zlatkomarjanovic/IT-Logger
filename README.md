@@ -10,7 +10,7 @@ ____________________________________________
 1. Git Clone 
 2. Remove package.lock.json 
 3. npm init 
-4. npm start 
+4. npm run dev 
 
 
 Happy testing :D 
